@@ -1,6 +1,6 @@
 # import requests
 
-# Coding Question: Given 2 JSON objects that have marks of 2 students, create a json object that returns the average marks in each subject
+# Coding Question: Given JSON object that have marks of students, create a json object that returns the average marks in each subject
 class StudentRecords:
    'Student records management'
 
@@ -40,8 +40,8 @@ class StudentRecords:
 
 # Input
 total_students_dict = {
-	'Student1' : {'english': 90,'maths': 50,'science': 80},
-	'Student2' : {'english': 70,'maths': 70,'science': 70}
+   'Student1' : {'english': 90,'maths': 50,'science': 80},
+   'Student2' : {'english': 70,'maths': 70,'science': 70}
 }
 
 # Function call - get average marks in each subject
