@@ -51,3 +51,6 @@ Total = student_records.getAverageMarks(total_students_dict)
 # Output
 print("Input - Total students :", total_students_dict)
 print("Output - Average marks in each subject :", Total)
+
+
+
