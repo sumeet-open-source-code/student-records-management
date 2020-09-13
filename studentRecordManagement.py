@@ -1,5 +1,3 @@
-# import requests
-
 # Coding Question: Given JSON object that have marks of students, create a json object that returns the average marks in each subject
 class StudentRecords:
    'Student records management'
